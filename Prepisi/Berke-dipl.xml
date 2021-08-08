@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Tomaz Erjavec</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2021-07-20</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <date>2021-08-04T09:47:41Z</date>
+                    <name>Tomaz Erjavec</name>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="003r"/>
+            <div>
+                <p>I. N. J. </p>
+                <fw type="pageNum">Numero 1</fw>
+                <div type="poem">
+                    <head>
+                        <gap>
+                            <desc>???</desc>
+                        </gap>cipiuntur canciones commuñes una cum Natalib<abbr>₉</abbr>
+                        <lb/>
+                        <gap>
+                            <desc>???</desc>
+                        </gap>schalib<abbr>₉</abbr>et Pentecostalibus. Anno 1786. Die 9
+                            <abbr>N.</abbr>
+                        <lb/>
+                        <abbr>Ad. N.</abbr> Ditsérlek Uram régedet.<abbr>&amp;c.</abbr>
+                    </head>
+                    <label>1.</label>
+                    <ab>Hválim jaſz tebe Goſspodne, kai ſzi ovo noucs mene <lb/> miloſztivno
+                        obaruval, i od hűda mentuval.</ab>
+                    <label>2.</label>
+                    <ab>Zte noucsne témnoſzti ſzi me, ka me <unclear>obzéla besſe</unclear>, <lb/>
+                        verno vunka oſzlobodil, i na gneſz gori zbűdil.</ab>
+                    <label>3.</label>
+                    <ab>Szercza te proszim Goſzpodne, odpűsztimi me greh <unclear>a</unclear>, <lb/>
+                        ſzkeimi ſzem goſztokrát tebe, zbantuval vu mem ſzerczi. </ab>
+                    <label>4.</label>
+                    <ab>I dnésnyi dén varui mene, po tvojem ſzvétom ſzini, od <lb/> hűde vraiso
+                        jalnoſzti i nyega ſztrel ognyeni. </ab>
+                    <label>5.</label>
+                    <ab>Ravnai ti moź sitek ſzlabi, da bom mogel hoditi, i <lb/> siveti natom
+                        ſzveiti, pouleg tve ſzvéte volje.</ab>
+                    <label>6.</label>
+                    <ab>Tebi porácsam na Dűsso, ino nemocsno teilo dneſz <lb/> i vu vſzem mojem
+                        sitki pomozime <unclear>vpotreibi</unclear>.</ab>
+                    <label>7.</label>
+                    <ab> Da nad menov vrag <unclear>tsalarni</unclear>, ſzvoimi ſzkűsnyavami</ab>
+                    <pb n="003v"/>
+                    <fw type="pageNum">2.</fw>
+                    <ab>nikar oblaſzti ne vzeme, i ne zapela mene.</ab>
+                    <label> 8. </label>
+                    <ab> Neiga na ſzveiti breſz tébe, ki bi pomogel mene, <lb/> zmosno od jakoſzti
+                        nyega, i hűda ſzkűsávanyo. </ab>
+                    <label/>
+                    <label> 9. </label>
+                    <ab> Posli záto tve angyele, nai varujo tve ſzluge, <lb/> poterejo moucs vraiso,
+                        vſze ládanye nyegovo. </ab>
+                    <label/>
+                    <label> 10. </label>
+                    <ab> Da meni skodil nebode, od tébe ne vtergne me, ár <lb/> bi tak moral
+                        zginoti, i na ſzkvárjeinye priti. </ab>
+                    <label/>
+                    <label> 11. </label>
+                    <ab> Znám dobro csinécsi Bough moi, da ſzlisis pros- <lb/> nye ti, vpotreibi me
+                        ne oſztavis, nego me vőn pomoris. </ab>
+                    <label/>
+                    <label> 12. </label>
+                    <ab> Za stero te vſzigdár hválil, i bom gori zvisával, <lb/> ſztvoim drágim
+                        ſzvétim ſzinom navkűp i zDűhom <lb/> ſzvétim. </ab>
+                    <closer>Amen.</closer>
+                </div>
+                
+                <div>
+                    <head> Alia. <abbr>Not.</abbr> ſzivem <unclear>ſzerint</unclear> Ur <abbr>Isten.
+                            I.</abbr>
+                    </head>
+                    <label> 1. </label>
+                    <ab> ſzprávoga ſzrcza mojega. Bough hválo ti dájem :/: <lb/> Vovom űtrásnyem
+                        vreimeni, i dokecs sivel bom, oh <lb/> Bough pred tvem liczem, dicsil i
+                        hválil te bom, <lb/> verno po <name type="person">Iesuj Kristusi</name> , vu
+                        tva ſzina Iméni. </ab>
+                    <label> 2. </label>
+                    <ab> Kai ſzi mene ſztve milosche, vpreminocsoi nou- <lb/> csi. :/: Od bojazni i
+                        od skode, obaruval lepo: pro- <lb/> ſzim te ponizno, moje grehe odpuſzti
+                        zkeimi </ab>
+                    <pb n="004"/>
+                    <fw type="pageNum">3.</fw>
+                    <ab>ſzem tebe raſzerdit, goſztokrat zbantuval. </ab>
+                    <label> 3. </label>
+                    <ab> I dé͠snyi den miloſstivno, <del>oba</del> varui me Goſzpodne :/: <lb/> od
+                        vraisi mreis ino greha, hűda ogrizávanya: <lb/> od ognya povoudni, od
+                        ſziromastva kvarov, od <lb/> temnicze, ino robſztva i nevedne ſzmerti. </ab>
+                    <label> 4. </label>
+                    <ab> Moi ſitek Dűssó i teilo, navkűp zmoim tűvá- <lb/> rusſem /: Poſztávim pod
+                        tvo obrámbo, moio cséſzt <lb/> zDeczov <add>vréd</add> zdrűsinov csinenye
+                        rodbino priátele, vno- <lb/> ge dobre moje znáncze, i vſze kai koli imam. </ab>
+                    <label> 5. </label>
+                    <ab> Tvoji Nebeſzki Angyelje od méne da neido :/: Vrá- <lb/> ga da dalecs
+                        odseno, da ne zagerli mene, ſzvoim <lb/> hűdim csinenyem, na ovom placsnom
+                        doli. Dűsse <lb/> tella mi ne vrazi, vpogibel ne zapela. </ab>
+                    <label> 6. </label>
+                    <ab> Oh Bough na tebe jaſz nihám vſzáko moje delo :/: <lb/> Ár ti leprai ſzam´
+                        aldűjes zmoſn moje delo, <lb/> tebi preporácsam moje teilo i Dűsso, csini
+                        tako <lb/> ti zmenov, kak je tvoja volja. </ab>
+                    <label> 7. </label>
+                    <ab> Na ovo jaſz recsem amen, :/: verjem da tak bode :/: <lb/> Ziednákim
+                        hotenyem Goſzpon, vſzvo volje vzemi <lb/> me, ſe zraſzpreſztertimi rokami
+                        bodem ono, <lb/> veſzél csinil koteroje, Boug na mé prevű- <lb/> pal. </ab>
+                    <pb n="004v"/>
+                    <fw type="pageNum">4.</fw>
+                </div>
+                <div>
+                    <head>
+                        <abbr>Not.</abbr> Halát adok tenéked <abbr>&amp;c.</abbr>
+                    </head>
+                    <label> 1. </label>
+                    <ab> Hvalim jaſz lepo tebe, oh Bough miloſztivni :/: <lb/> kai ſzi ovo noucs
+                        mene obaruval vzdrávji: od <lb/> vraise ſzkűsnyáve, i lepi tihi pokoi ſzi mi
+                        dál, <lb/> da mie Vrág nikai nei ſkodil. </ab>
+                    <label> 2. </label>
+                    <ab> Varui me i dnésnyi dén, po tvojoi miloschi :/: <lb/> Da mi ogen i povoden,
+                        nikai ne ſkodi, od méne <lb/> da vſzaka nevola greh ſztiſskáványe nazái
+                        vleka <lb/> procs da bodo, od vſza hűda. </ab>
+                    <label> 3. </label>
+                    <ab> Pokreipi mojo Dusso i Teilo ztvoim Dűhom :/: <lb/> Da moie cséſzti delo,
+                        pokásem zveſzeljem, po- <lb/> leg me potreibi: dokecs me odſzudvu
+                        <unclear xml:space="preserve"> </unclear> Nebeſzko <lb/> ſzvetlo diko,
+                        pripelas kſzebi lepo. </ab>
+                    <label>4. </label>
+                    <ab> Ovdi pa ztve dobroute do ſzhrádnye me vere /: <lb/> Noter do ſzmerti der
+                            <hi style="font-family:ZRCola">ſ</hi> i vprávoi v <hi
+                            style="font-family:ZRCola">ő</hi> ri mene, i <lb/> ſzteim blagoſzlovi,
+                        delnika mene vcsini, da pomá- <lb/> gam <add>nevolne</add> vnih potrebouc
+                            <hi style="font-family:ZRCola">ſ</hi> i. </ab>
+                    <label> 5. </label>
+                    <ab> Ti ravnai mene i ládai ſztvoim ſzvétim dű- <lb/> duhom :/: Da bodem jaſz
+                        tebe iſzkal, ſzpunim ve- <lb/>
+                        <hi style="font-family:ZRCola">ſ</hi> zeljem, i vtvoi ſzvéti Orſzágh da
+                            <surplus>da </surplus> ſze noter <lb/> ſedeim, </ab>
+                    <pb n="005r"/>
+                    <fw type="pageNum">5.</fw>
+                    <ab> vmojoi pameti <unclear>de sem, i da vnyega pridem</unclear>. </ab>
+                    <label> 6. </label>
+                    <ab> ſivi me ovdi dokecz ie tva ſzvéta volja /: Li <lb/> dai kai mie nahaſzen,
+                        ne proszim te blága <lb/> ſztem ſzem zadovolen, csi ſzem glih nevolen, i
+                        <lb/> me potrebesi neiſzo velike ni zvnogim ne ladam. </ab>
+                    <label> 7. </label>
+                    <ab> Dai Bough da lepo tiho moi ſitek dokoncsam :/: <lb/> Potomtoga vu Diki,
+                        tvoje licze glédam, ztvoi- <lb/> mi Angyelmi, tebe da dicsim, ino gori zvisá
+                        <lb/> vam, vekoma zglaſznom recsjouv. </ab>
+                    <closer>Amen.</closer>
+                </div>
+                <div>
+                    <head>
+                        <abbr>Nota.</abbr> Oh ſselséges arya Isten <abbr>&amp;c.</abbr>
+                    </head>
+                    <label> 1. </label>
+                    <ab> Oh zmosni otecz Goſspon Bough. K <gap>
+                            <desc xml:space="preserve">??? </desc>
+                        </gap> kra- <lb/> lujes vu Nebéſzai hválen boidi vtvoih vernih. </ab>
+                    <label> 2. </label>
+                    <ab> Da ſzi náſz vpreminoucsoi <unclear>nouchi</unclear> , zdersal <lb/> ſztvoie
+                        dobre volje, zocsinſzke ſzvéte milosche. </ab>
+                    <label>3.</label>
+                    <ab> Od vraise vſze csalarie, od nágle nevedne <hi style="font-family:ZRCola"
+                            >ſ</hi> zmerti, <lb/> od greha vſzega hűdoga. </ab>
+                    <label>4.</label>
+                    <ab> Nassa tela ſzi ſzpocsinkom doglédal i zblá- <lb/> ſenim ſznom gdelu tiſzi
+                        nám pomoucs dál. </ab>
+                    <label>5. </label>
+                    <ab> I dnésnyi dén ſzlatki nas Bough, áldui nás <lb/> zblásenim dnévom, za tve
+                        Ime te proſzimo. </ab>
+                    <label>6.</label>
+                    <ab> Da vu tvojem blagoſzlovi, hodili bomo vpo- <lb/> zványi, hválili te bomo
+                        veke. </ab>
+                    <pb n="005v"/>
+                    <fw type="pageNum">6. </fw>
+                    <label>7.</label>
+                    <ab> Da ſivémo vprávoi veri, zpráve bose Boiaznoſzti <lb/> i vu tvojoi
+                        lűbéznoſzti. </ab>
+                    <label>8.</label>
+                    <ab> ſzlisi nám nasſe molitve, Otecz Bough primi <lb/> nám prosnye, dái nam
+                        Dűsne potreboucse. </ab>
+                    <label>9.</label>
+                    <ab> Za tvega ſzvétoga ſzina, Goſzpon Jesussa <lb/> Kristusa, boidi nam
+                        miloſztiv za nyega. </ab>
+                    <label>10. </label>
+                    <ab> Da mi povſzem nasſem trűdi, pridemo vupo- <lb/> csivanye, vNebeſzko ſzveto
+                        veſzelje. </ab>
+                    <closer>Amen.</closer>
+                </div>
+                <div>
+                    <head>
+                        <abbr>Nota.</abbr> Mennyei Atyánk Ur Iſten. </head>
+                    <label>1.</label>
+                    <ab> Nebeſzki Otecs Goſzpon Bough, hválo ti dájemo <lb/> záto, daſzi náſz ovo
+                        noucs vzdrávji, obaruval i <lb/> vu méri. </ab>
+                    <label>2.</label>
+                    <ab> ſztvojov mocsjouv proti Vrágom varuval <hi style="font-family:ZRCola"
+                            >ſ</hi> zi <lb/> náſz zAngyelſzkom, znamiſzi bil vdobroi vouli, <lb/> mi
+                        ſzmo ſspáli ti <hi style="font-family:ZRCola">ſ</hi> zi ſztrásil. </ab>
+                    <label>3.</label>
+                    <ab> Od hűdi lűdi návode, i od vraisi protivnikom, <lb/> od Tolvajov i od tátav,
+                        branil ſzi od protivnikov. </ab>
+                    <label>4.</label>
+                    <ab> Nasſe Dűsse vpokoinoſzti zdersal ſzi nám vprá- <lb/> vsi roki neiſzi
+                        pűsztil vu ſztrahoto, ſzpádnoti vu <lb/> vraise roké. </ab>
+                    <label>5.</label>
+                    <ab> Glih r <hi style="font-family:ZRCola">áv</hi> no tak na ſivoti, obaruval
+                        ſsi náſz </ab>
+                    <fw type="catch" place="bot-right"> vzdravji <lb/>
+                    </fw>
+                    <pb n="006r"/>
+                    <fw type="pageNum">6.</fw>
+                    <ab> vzdr <hi style="font-family:ZRCola">áv</hi> ji, ino vu nocsnoi témnoſzti,
+                        znami ſzi bil <lb/> vſzákom meſzti. </ab>
+                    <label>6.</label>
+                    <ab> Esche te dale proſzimo, zgledniſze na tvoje <lb/> ſzini, preſzveti nám
+                        nasſa dela, Da te hválimo <unclear>Idna</unclear>. </ab>
+                    <label>7.</label>
+                    <ab> Daſze tve recsi vucsimo, knyei ſze li vſzikdár <lb/> v <hi
+                            style="font-family:ZRCola">ſ</hi> é <gap>
+                            <desc>???</desc>
+                        </gap> csemo ſziroute nadaljávaimo vſze ſzi mi dab- <lb/>
+                        <gap>
+                            <desc>???</desc>
+                        </gap> ro csinimo. </ab>
+                    <label>8.</label>
+                    <ab> Od greha daſze varjemo, ſzvéto posteno ſivémo, <lb/> vu vſzem ſze tebe
+                        boimo Vrágu da ne engeduemo. </ab>
+                    <label>9.</label>
+                    <ab> Kak ſzvetlo ſzuncze glédamo, tvo volio tak da <lb/> glédamo ſztébeſzé né
+                            <anchor xml:id="Hlk77234923"/> spozábimo od tébe vu vſzem <lb/> viſzimo. </ab>
+                    <label>10.</label>
+                    <ab> Eto nám dái za <abbr>Xtu͠ssa</abbr> , za tvega dragoga. <lb/> ſzinka,
+                        nasſega odkűpitela, boidi nám, <lb/> milo <hi style="font-family:ZRCola"
+                            >ſ</hi> ztiv Bough nas. </ab>
+                    <closer>Amen.</closer>
+                </div>
+                <div>
+                    <head> Nouta. ſzivem meg alázván. <abbr>&amp;c.</abbr>
+                    </head>
+                    <label>1.</label>
+                    <ab> Iaſz ſzponiznim ſzerczem, ktebi ſatujem, <lb/> pred té me molidve, moi
+                        Bough jaſz neſzém, </ab>
+                    <fw type="catch" place="bot-right">
+                        <seg rend="color(0070C0)" style="font-size:12pt">po tvem</seg>
+                        <lb/>
+                    </fw>
+                    <pb n="006v"/>
+                    <fw type="pageNum">8.</fw>
+                    <ab> po tvem <hi style="font-family:ZRCola">ſ</hi> zvétom ſzini tebiſze molim. </ab>
+                    <label>
+                        <supplied>2.</supplied>
+                    </label>
+                    <ab> Blásen boidi moi Bough kai ſzi me zdersál <unclear>vkvári</unclear>
+                        <lb/> vsaloſzt <unclear xml:space="preserve"> </unclear> ovo noucs da ſzem
+                        ſzpadinol, Angyal- <lb/> ſzki ſeregouv
+                        <unclear xml:space="preserve"> </unclear> pomoucs ſzi mi dál. </ab>
+                    <label>
+                        <supplied>3.</supplied>
+                    </label>
+                    <ab> Ovo rano űtro obűdil ſzime, vu dobroi pomou- <lb/> csi, vzdrávom ſivoti, na
+                        vſze dobro proſzim rau- <lb/> nai mene. </ab>
+                    <label>4. </label>
+                    <ab> Te dnésnyi dén vcsini, Go ſzpodne zmenov, vſzá- <lb/> ke féle grehov,
+                        mentuval ſze bom, práve vere <lb/> ſzáda <unclear>da</unclear> pokázal bom. </ab>
+                    <label>5.</label>
+                    <ab> Je ſz tvina pitvina, mertűcsna nai bo, pósaraz- <lb/> no ſzt piano ſzt
+                        skodila nebo, manye vſze <unclear> mil <seg style="font-family:ZRCola"
+                                >ſ</seg> e </unclear> - <lb/>
+                        <unclear xml:space="preserve">nye </unclear> vu meni da nebo. </ab>
+                    <label>6.</label>
+                    <ab> Poménsai vu mem ſzerczi, vſze hűdo delo, ne <lb/> vrasim brez zroka, mega
+                        blisnyega, ni na hűdo <lb/> csinenye, da nedam zroka. </ab>
+                    <label>7.</label>
+                    <ab> Dobro znás moi Go ſz pon, kai ſzem nevolen iaſz <lb/> na vnosina grehov,
+                        kak ſzem nagneni iaz, <lb/> dái ſzemi vernoti, da vgreh ne ſzpádnem. </ab>
+                    <fw type="catch">
+                        <surplus> 8. ſztvo- </surplus>
+                    </fw>
+                    <pb n="007r"/>
+                    <fw type="pageNum">9.</fw>
+                    <label>8.</label>
+                    <ab> ſztvojov právov praviczov, ne kastigai me, za <lb/> vreidnoſzt
+                            <abbr>Xtussa</abbr> grehe odpű <seg style="font-family:ZRCola">ſ</seg>
+                        ztimi, po vreidnoſzti <lb/> tvoie kleſztva varui me. </ab>
+                    <label>9.</label>
+                    <ab> Záto tak ſz ám ſzebé, tebi porocsim, tva milos- <lb/> csa meni bramba boidi
+                        mi ſzvéti Dűh ſztvom <lb/> recsjouv paſztér boidimi. </ab>
+                    <label>10.</label>
+                    <ab> Vűneisnyega kvára, mentui ti mene da ſaloſzt <lb/> ni radoſzt ne zadusſi
+                        me, zderſi mi vu zdráv <seg style="font-family:ZRCola">ji</seg>
+                        <lb/> nevolno me ſzercze. </ab>
+                    <label>11.</label>
+                    <ab> Moi Bough tebi boidi, Dika postenyé, v ſzvé- <lb/> tom troiſtvi
+                        <seg style="font-family:ZRCola" xml:space="preserve">ki </seg> ſzi edne
+                        ſztálnoſzti, tebéſze <lb/> doſztáia vſzáko postenyé. </ab>
+                    <closer> Amen. </closer>
+                </div>          
+                <div>
+                    <head> Nouta. Jesus Kristus ſzép fényes <abbr>&amp;c.</abbr>
+                    </head>
+                    <label>1.</label>
+                    <ab> Jesus Kristus Práva zorja, ki ſz i znebé ſz doli <lb/> ſztopil, za náſz ſzi
+                        ſze alduval. </ab>
+                    <label>2.</label>
+                    <ab> Zkerviom <hi style="font-family:ZRCola">ſ</hi> zvojov ti n áſz ocsiſzti, i
+                        zna <seg style="font-family:ZRCola">ſ</seg> sih rán <lb/> ti náz zvrácsi,
+                        Oczu ti náſz preporocsi. </ab>
+                    <label>3.</label>
+                    <ab> Poſzoudi n ám pravdeno ſzuncze, da vidimo tve- <lb/> ga ocza, i poznamo
+                        ſzami ſzebe. </ab>
+                    <label>4.</label>
+                    <ab> Da poznamo vſze nasſe grehe, i necsiſzti veſz <lb/> nas ſitek te ſze
+                        vernémo mi zgrehov. </ab>
+                    <fw type="catch" place="bot-right">
+                        <surplus>
+                            <seg rend="normalweight color(0070C0)">5. Dai n</seg>
+                            <seg rend="normalweight color(0070C0)">a</seg>
+                            <seg rend="normalweight color(0070C0)">m</seg>
+                        </surplus>
+                    </fw>
+                    <pb n="007v"></pb>
+                    <fw type="pageNum">10</fw>
+                    <label>5.</label>
+                    <ab> Dai nam Bosje, ſzvétoga Dűha, ki bo vucsil nasſe <lb/> Dűsse, i povéksa nám vſzeim vőrő. </ab>
+                    <label>6.</label>
+                    <ab> Da pognoi v ſze naſze zemle, i pobolsa veſz nas ſitek, <lb/> da Dicsimo mi
+                        vſzi Tebe. </ab>
+                    <label>7.</label>
+                    <ab>
+                        <name type="person">Jesus </name>
+                        <abbr>Xtu͠s</abbr> Ocza Bogá ſzin, i Angyelom pra <seg
+                            style="font-family:ZRCola">a</seg>
+                        <lb/>
+                        <seg style="font-family:ZRCola">Dika</seg>
+                        <seg style="font-family:ZRCola">, Dűssa</seg>
+                        <seg style="font-family:ZRCola" xml:space="preserve">m </seg>
+                        <seg style="font-family:ZRCola">na</seg> sſim ſzi od háda. </ab>
+                    <label>8.</label>
+                    <ab> Kakſze zoria prednom zapira, i ſzuncze <seg style="font-family:ZRCola"
+                            >ſ</seg> zvet- <lb/> loſzt zkaſue, tako ti náſz Oczu ſzkáſi. </ab>
+                    <label>9.</label>
+                    <ab> Hváleno boidi ſzvéto troiſtsvo, i iſtino právo Bojſz- <lb/> vo tam i gori
+                        vnebeſzai </ab>
+                    <closer> Amen. </closer>
+                </div>          
+                <div>
+                    <head>Nouta. Boldog az Myan Ember az Inben.</head>
+                    <label>1.</label>
+                    <ab> Blásen je v <hi style="font-family:ZRCola">ſ</hi> zebi. Cslovik tákov v
+                        ſáki, kie neiho- <lb/> dil zhűdimi vtanácsi, znemiloſztivnomi nei hodil po
+                        <lb/> pouti, ialna pitanya nei miſzlil vpámeti. </ab>
+                    <label>2.</label>
+                    <ab> Nego reics Bosjo, on v ſzigdár poſzlusſa, nakoi on miſz- <lb/> leb vſso nai
+                        vekſo ima, nakomu gléda vſza nyegova hodba, <lb/> vnocsi i vujdne vſzerczi
+                        premislaa. </ab>
+                    <label>3.</label>
+                    <ab> On bode kako drevo pripotouki, komu liszticsa zima <lb/> ne zbantuje,
+                        zdobrim ſzádom rodi vu ſzvojem vrei- <lb/> meni ſzrecsnovo delo vſze nyegovo
+                        boude. </ab>
+                    <pb n="008r"></pb>
+                    <fw type="pageNum">11.</fw>
+                    <label>4.</label>
+                    <ab> Da nebo onim takvo dugovanye, ki pa ſzke ne noſzi <lb/> zreicsi Christuseve
+                        i kak veter odnáſze od zé m le praih <lb/> dalecs tak i Goſzpodin Bough,
+                        nyega zaverse. </ab>
+                    <label>5.</label>
+                    <ab> Gda zémle ludje v ſzi gori posztano, i ſzvega ſitka ra- <lb/> csun oni
+                        dajo, med neverne lűdih vſzi ſze oni zmecso, <lb/> i na ſzkvárjeinye
+                        vekiveczno ſzpádno. </ab>
+                    <label>6.</label>
+                    <ab>
+                        <unclear>S</unclear> ſzvoim vernim Bough pouti na právla zſzvoje mi- <lb/>
+                        loscse on vſzikdár nyé ráni, da neverniczi vu nih <lb/> opornoſzti, doli
+                        opadno vpekel vekivecsni. </ab>
+                    <label>7.</label>
+                    <ab> Da bi bil piszal ſoltár <name type="person">David</name> ſzvéti pocselje
+                        vſze <lb/> knige zrecsmi takovimi, Bláſena govori kiſze <lb/> Boga boji,
+                        ſzkvárjena govori kiſzega neboji. </ab>
+                    <closer> Amen. </closer>
+                </div>        
+                <div>
+                    <head> Nouta. J. ſzusánſztva vraisi ſzusen. <abbr>&amp;c.</abbr>
+                    </head>
+                    <label>1.</label>
+                    <ab> Poide Jesus vuto Barko, kotera bes s e na morjá, <lb/> zanyim poido
+                        vucseniczi, i vto Barko v ſz i ſz topis se. </ab>
+                    <label>2.</label>
+                    <ab> I ovo gda on za <anchor xml:id="Hlk77671817"/> ſz passe, lek me ſztu Morje
+                        vſzta gori, <lb/> vetrovje ino ſzlápovje, ſteri Barko pokrivalſe. </ab>
+                    <label>3.</label>
+                    <ab> Vucsenicziſzo prisztoupili, ino ſzoga obűdili rekocs <lb/> Goſzpon ſztani
+                        gori, ár mi vſzi poginamo. </ab>
+                    <label>4.</label>
+                    <ab> Odgovori i nyim recse, kai ſze tak Morja boite, oh <lb/> vi máte vere ludje
+                        ár v ám ſkoditi nemore. </ab>
+                    <pb n="008v"></pb>
+                    <fw type="pageNum">12.</fw>
+                    <label>5.</label>
+                    <ab> Onda gori <name type="person">Jesus</name> ſztáne, i po vſzem Morji ſze
+                            <unclear>zglédne</unclear> , <lb/> vetrom Morjum zapoveda czeloi tiho
+                        poſztane. </ab>
+                    <label>6.</label>
+                    <ab> Ti ludje ſze csűdivasse, inoſzo tak govo <add>r</add> jasſe kakſzo <lb/>
+                        tomu ti okorni, verni i morje pokorni. </ab>
+                    <label>7.</label>
+                    <ab> Takoimi ſnyimi navkűp, boidimo nyemu pokorni, Ako <lb/> vNebeſzkom Orſzági,
+                        hocsemo snyim prebivati. </ab>
+                    <label>8.</label>
+                    <ab> Komu boidi cséſzt i hvála, ſzinom z <name type="person">Jesusem </name>
+                        <abbr>Xtu͠sem</abbr> , <lb/> snyima navkűp ſzvétim Dűhom vekvekoma odnás
+                        dána. </ab>
+                    <closer>
+                        <abbr>Am͠</abbr>
+                    </closer>
+                </div>          
+                <div>
+                    <head>Nouta. Tűndőklő hajnali csillag.</head>
+                    <label>1.</label>
+                    <ab> Szvetla zvezda zorján ſzka zmiloscsov ti ſzi preſzvet- <lb/> la, lepa
+                        Jesseva ſiba :/: <name type="person">Davida</name> králja národ ſzi,
+                            <del>me</del>
+                        <lb/> esche i v ſzeim králom králſzi me dűsse zarocsnik <lb/> ſzi
+                            <abbr>B.</abbr> Drági, lepi, priétenſzi vugodenſzi odicsenſzi, <lb/> i
+                        zbogáſztvom zvisen jeſzi. </ab>
+                    <label>2. </label>
+                    <ab> Oh drága zláta korona, ti ſzi právi Bough i cslovik, <lb/> Devicze ſzád
+                        bláseni :/: Mojega ſzercza liliom, <lb/> pre ſzlatki Evangyeliom, vnoge
+                        lepote kincs ſzi <abbr>R.</abbr>
+                        <lb/> Jeden, zarocsen czvetek lepi krűh Nebe ſzki ſterim <lb/> ſiv ém
+                        ſztébeſze zábiti nemrem. </ab>
+                    <pb n="009r"></pb>
+                    <fw type="pageNum">13.</fw>
+                    <label>3.</label>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
