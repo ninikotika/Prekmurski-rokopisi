@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msDesc n="NDI_004" xml:id="rrss_ms_146">
+    <msIdentifier>
+        <country>Slovenija</country>
+        <settlement>Ljubljana</settlement>
+        <repository>Narodna in univerzitetna knjižnica</repository>
+        <idno type="Nuk">Ms 1485/I/14</idno>
+    </msIdentifier>
+    <msContents>
+        <summary>
+            <p>Pesmarica je večinsko delo Blaža Berkeja, takratnega dijaka v madžarskem mestu
+                Nemescsó oz. Čobinu. Razdeljena je na dva dela, na začetku rokopisa pa najdemo še
+                dve molitvi. Prvi del je razdeljen na dve večji vsebinski enoti, ki se zaključita s
+                kazalom vseh pesmi. Glede na kazalo naj bi bilo število vseh pesmi v tem delu 151,
+                vendar vse zaradi manjkajočih folijev niso ohranjene oz. niso popolne. Tako del
+                    <hi>Incipiuntur canciones commuñes una cum Natalib₉ Paschalib₉ et
+                    Pentecostalibus</hi>, zapisan leta 1768, obsega le 90 pesmi, saj v rokopisu
+                manjkajo tri: <hi>Oh Bough oh</hi>, <hi>Veszelo Maria</hi> in <hi>Vu pravoi</hi>.
+                Nekatere pesmi v tem delu so vsebinsko nepopolne: folij 011r na primer vsebuje le
+                zadnje tri kitice pesmi <hi>Zakaiſze saloſztis</hi>, od f. 066v manjka 11 kitic
+                pesmi <hi>Mocsni Bosje gda Adama</hi>, od f. 072v manjka 14 kitic pesmi <hi>Navkűp
+                    hvalimo</hi>, od f. 087v manjka 10 kitic pesmi <hi>Gda Jerusalemſzki
+                    Templom</hi>. Tudi pesmi <hi>Szveti David Prerok</hi> manjka končni del, sledeča
+                pesem <hi>Oh Bough oh</hi> manjka v celoti, sledi začetek pete kitice pesmi
+                    <hi>Otecz Nebeſzki</hi>. Rokopis se prične z jutranjimi in večernimi pesmimi,
+                znanimi iz protestantske pesniške tradicije. Sledijo razne pesmi v času božiča,
+                velike noči in binkošti, pa tudi pesmi o Svetem Rešnjem telesu, očiščevanju in
+                oznanjenju Device Marije, Kristusovem pasijonu, sodbi in svetnici Katarini. V drugi
+                vsebinski podenoti <hi>Sequuntur Cantiones Quadragesimales</hi> iz leta 1769 je
+                zapisanih 58 pesmi (postne, velikonočne, vnebohodne, binkoštne, adventne,
+                božične).</p>
+            <p>V drugem delu pesmarice <hi>De Sacra Domini Cöena</hi>, ki sledi kazalu, je naknadno
+                dopisanih še 30 pesmi eshatološke vsebine. Na naslovnici je zapisano ime Janos
+                Leposa. Ta del sta napisali vsaj dve roki, nekaj pesmi je napisal Berke, ko je
+                postal duhovnik 1784 v Puconcih.</p>
+            <p>Pesmi so napisane v prekmurskem knjižnem jeziku 18. stoletja, izhajajo iz pretekle
+                rokopisne literarne tradicije in se v naslovih sklicujejo na madžarske pesmi.</p>
+        </summary>
+        <msItemStruct class="#rrss_type_songbook #rrss_aut_ecc">
+            <author xml:lang="slv">Blaž Berke</author>
+            <title xml:lang="slv" type="editorial">Berkejeva pesmarica</title>
+            <title xml:lang="slv" type="original">Szlovenszke Dűhovne Peszmi piszane po Berke
+                Balaszi vu Nemes Cob</title>
+            <incipit xml:lang="slv">Incipiuntur canciones communes una cum Natalib₉</incipit>
+            <explicit>Bole bilo dabi mene vu detinſztvi vu koupali / moje tejlo zalejali jalna
+                dojka.</explicit>
+            <listBibl>
+                <bibl copyOf="bibl_">
+                    <biblScope unit="page"/>
+                    <note type="bibl"/>
+                </bibl>
+            </listBibl>
+            <textLang mainLang="slv"/>
+        </msItemStruct>
+    </msContents>
+    <physDesc>
+        <objectDesc form="codex">
+            <supportDesc material="paper">
+                <support>
+                    <material>papir</material>
+                </support>
+                <extent n="191">
+                    <note>Ohranjenih je 191 folijev, dva dodatna sta prilepljena na platnico. Opazni
+                        so manjkajoči listi, in sicer med f. 010v in 011r manjka en list, prav tako
+                        med f. 066v in 067r, med f. 051v in 052r manjkata dva lista, prav tako med
+                        f. 072v in 073r, med f. 087v in 088r manjka en list.</note>
+                    <dimensions type="leaf" unit="mm">
+                        <height>180</height>
+                        <width>150</width>
+                    </dimensions>
+                </extent>
+                <foliation>Prvotna paginacija se prične na foliju 003r in konča na foliju 157v. V
+                    kazalu so vidni popravki paginacije, prav tako je dvojna paginacija prisotna v
+                    samem rokopisu. Prvi del pesmarice do kazala (folij 157v) se tako zaključi s
+                    števkama 324 in 320. Sekundarni sta paginaciji z modrim kemičnim svinčnikom in
+                    vijolično barvico. Prva se zaključi s 340 na foliju 164v in prične številčiti na
+                    novo od 1 do 54. Druga se zaključi s števko 50 na foliju 052r. </foliation>
+                <collation>
+                    <formula/>
+                    <p>Rokopis sestavlja 15 leg.</p>
+                </collation>
+            </supportDesc>
+        </objectDesc>
+        <handDesc hands="2">
+            <handNote>
+                <p>Blaž Berke je zapisal samo prvi del pesmarice. Dodatek po kazalu je zapisala
+                    neznana roka.</p>
+            </handNote>
+        </handDesc>
+        <decoDesc>
+            <p/>
+        </decoDesc>
+        <bindingDesc>
+            <p>Zbornik je vezan v platnice iz lesenih deščic, prevlečene z rjavim usnjem; zapirača
+                sta odpadla.</p>
+        </bindingDesc>
+    </physDesc>
+    <history>
+        <origin>
+            <origPlace>Nemescsó (Čobin), Puconci</origPlace>
+            <origDate notBefore="1768" notAfter="1784">1768—1784</origDate>
+        </origin>
+    </history>
+    <additional>
+        <adminInfo>
+            <recordHist>
+                <source>Opis neposredno po izvirniku.</source>
+                <change when="2021-12-21" who="#NDI"> Dodala podroben opis vsebine in fizičnih
+                    značilnosti rokopisa.</change>
+
+            </recordHist>
+        </adminInfo>
+    </additional>
+</msDesc>
